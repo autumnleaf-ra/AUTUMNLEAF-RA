@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-💻 Golang Addicted.
-🤔 Backend-Enginer wanna be.
-⚡ I hate programming.
+*💻 Golang Addicted.
+*🤔 Backend-Enginer wanna be.
+*⚡ I hate programming.
 <!--
 **autumnleaf-ra/AUTUMNLEAF-RA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
